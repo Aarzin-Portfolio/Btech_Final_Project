@@ -1,0 +1,14 @@
+body{
+	background:linear-gradient(-90deg, #0000ff,white,white,#0000ff);
+}
+
+table{
+	margin-top: 1%;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 34%;
+	padding: 0px;
+	border: 1px solid navy;
+	background:linear-gradient(white,#ffff66,yellow);
+	font-size: 22px
+}

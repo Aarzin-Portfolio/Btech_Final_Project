@@ -1,0 +1,37 @@
+#a2{
+	background-image: url("BG2.png");
+	margin-left: 277px;
+	margin-top: 63px;
+    
+	border-radius: 4px;
+    width: 800px;
+	height: 200px;
+	background-repeat:no-repeat; 
+	background-position: center;
+}
+body{
+	background:linear-gradient(-90deg, #0000ff,white,white,#0000ff);
+}
+th,td {
+	font-size:20px;
+	color: white;
+}
+table{
+	margin-top: 110px;
+	margin-left: 165px;
+}
+.button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: -170px 2px;
+    cursor: pointer;
+}
+form{
+margin-top:175;
+}

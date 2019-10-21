@@ -1,0 +1,100 @@
+body{
+	background:linear-gradient(-90deg, #0000ff,white,white,#0000ff);
+}
+#img1 {
+	margin-left: 230px;
+	margin-top: 35px;
+    border: 6px solid #4d0066;
+    border-radius: 4px;
+    padding: 0px;
+    width: 800px;
+	height: 500px;
+}
+
+#a2{
+	background-image: url("BG2.png");
+	margin-left: 255px;
+	margin-top: 20px;
+    
+	border-radius: 4px;
+    width: 800px;
+	height: 500px;
+	background-repeat:no-repeat; 
+	background-position: center;
+}
+#a3{
+margin-left: 362px;
+	margin-top: -200px;
+	background-image: url("hbd2.png");
+	
+        width: 622px;
+	height: 106px;
+	background-repeat:no-repeat; 
+	background-position: center;
+}
+#a4{
+	background-image: url("WA2.png");
+	border-bottom-color: #123456;
+	background-repeat:no-repeat; 
+	background-position: center;
+}
+th,td {
+	font-size:20px;
+	color: white;
+}
+table{
+	margin-top: 110px;
+	margin-left: 165px;
+}
+#abc{
+	font-family: "Georgia";
+	font-size:25px;
+}
+.button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 28px 2px;
+    cursor: pointer;
+	
+}
+#a{
+	margin-left:432px;
+	margin-top: 50px;
+}
+h2{
+	color: #123456;
+	text-align: center;
+	font-family: Arial Black;
+	text-decoration: underline; 
+    text-decoration-style: wavy;
+	margin-top: 416.92px;
+}
+h3{
+	color: #123456;
+	text-align: center;
+	font-family: Arial Black;
+	text-decoration: underline; 
+    text-decoration-style: wavy;
+}
+h4{
+	margin-top: 400px;
+	color: #123456;
+	text-align: center;
+	font-family: Arial Black;
+	text-decoration: underline; 
+    text-decoration-style: wavy;
+}
+h1{
+	color: #ffffff;
+	text-align: center;
+	margin-top: 782px;
+	font-family:Arial Black;
+	text-decoration: underline; 
+    text-decoration-style: wavy;
+}
